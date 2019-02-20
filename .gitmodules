@@ -1,0 +1,3 @@
+[submodule "src/radb"]
+	path = src/radb
+	url = git@github.com:Humbedooh/radb.git
